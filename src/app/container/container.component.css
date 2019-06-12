@@ -1,0 +1,6 @@
+.main {
+    background-color: #ffaaee;
+    margin-left: 250px;
+    transition: margin-left 0.3s;
+    padding: 50px 16px 16px 16px;
+  }

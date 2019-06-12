@@ -1,0 +1,8 @@
+#links {
+    display: grid;
+    justify-content: right;
+    align-content: center;
+    grid-auto-flow: column;
+    grid-gap: 1.5em;
+    font-family: 'Open Sans', sans-serif;
+}
